@@ -1,7 +1,11 @@
+# 📘 Adobe India Hackathon 2025 – Round 1B Submission  
+## 🧠 Challenge: **Connecting the Dots Through Docs**  
+### 👥 Team: Catalyst
 
-**Adobe India Hackathon 2025 – Round 1B**  
-**Challenge Theme:** Connect What Matters — For the User Who Matters  
-**Track:** Persona-Driven Document Intelligence
+---
+
+## 🚀 Project Title:  
+### **PERSONA-DRIVEN DOCUMENT INTELLIGENCE**
 
 ---
 
