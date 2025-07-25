@@ -1,0 +1,4 @@
+PyMuPDF==1.23.6
+scikit-learn
+nltk
+sentence-transformers
